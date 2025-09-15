@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+h1{
+    color: white;
+}
+p1{
+    color: yellow;
+}
+p2{
+    color: blue;
+}
+p3{
+    color: rgb(4, 117, 29);
+}
+p4{
+    color: rgb(126, 4, 109);
+}
+p5{
+    color: rgba(245, 143, 11, 0.877);
+}
+
+
