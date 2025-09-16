@@ -1,0 +1,12 @@
+div{
+    background-color: lightcoral;
+    height:100px;
+    width:100px;
+    display: inline;
+}
+span{
+    background-color: lightblue;
+    height:100px;
+    width:100px;
+    display: block;
+}
