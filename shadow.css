@@ -1,0 +1,14 @@
+h1{
+    text-shadow: 10px 1px hsl(0, 100%, 50%), -10px -1px hsl(180, 100%, 50%);  
+}
+
+
+h2{
+    text-shadow: 3px 3px 5px
+}
+#box1 {
+    width:100px;
+    height:100px;
+    background-color: hsl(208, 100%, 97%);
+    box-shadow: 3px 3px 5px;
+}
